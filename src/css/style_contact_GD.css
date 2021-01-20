@@ -1,0 +1,15 @@
+#map
+{
+    margin-top: 5%;
+    margin-bottom: 5%;
+    display: flex;
+    justify-content: space-around;
+}
+
+#localisation
+{
+    display: flex;
+    justify-content: center;
+    font-size: large;
+    text-decoration: underline;
+}
