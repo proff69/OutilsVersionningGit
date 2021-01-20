@@ -1,0 +1,41 @@
+header
+{
+	text-align: center;
+	margin-bottom: 3%;
+}
+
+#navigation li {
+    float: left;
+    list-style: none;
+    width: 19%;
+    padding: 2px;
+    font-size: 20px;
+    background-color: white;
+  }
+
+#navigation {
+
+    width: 96%;
+    margin: 0 auto;
+    position: sticky;
+    top: 0; 
+      
+}
+
+#navigation li a {
+    display: block;
+    color: black;
+    text-align: center;
+     text-decoration: none;
+    font: italic 1.2em "Fira Sans", serif; 
+    border-radius: 7px;
+    border: solid rgb(143, 20, 20) 1.5px;
+    
+}
+  
+#navigation li a:hover {
+
+    font-size: 30px;
+    color:rgb(143, 20, 20);
+    font-weight: bold;
+}
